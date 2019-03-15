@@ -1,6 +1,6 @@
 # CircleCI Demo React Native App
 
-[![CircleCI](https://circleci.com/gh/mphoraf/node-circlecidemo.svg?style=svg)](ihttps://circleci.com/gh/mphoraf/node-circlecidemo)
+[![CircleCI](https://circleci.com/gh/mphoraf/node-circlecidemo/tree/development.svg?style=svg)](https://circleci.com/gh/mphoraf/node-circlecidemo/tree/development)
 
 ## Building and running locally on a node image
 
